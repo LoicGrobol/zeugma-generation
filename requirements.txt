@@ -2,5 +2,6 @@ ipywidgets
 jsonlines
 jupyterlab
 jupytext
+nbgitpuller
 rich
 spacy
