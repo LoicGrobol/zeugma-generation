@@ -1,0 +1,6 @@
+ipywidgets
+jsonlines
+jupyterlab
+jupytext
+rich
+spacy
